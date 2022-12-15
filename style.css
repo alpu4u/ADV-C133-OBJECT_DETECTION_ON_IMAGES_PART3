@@ -1,0 +1,10 @@
+.button{
+    font-size: large;
+    background-color: rgb(136, 136, 237);
+    font-weight: 100;
+    border-radius: 20px;
+}
+
+.hs{
+    background-color: aliceblue;
+}
